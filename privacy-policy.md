@@ -1,9 +1,9 @@
 # Privacy Policy di Cashly
 
-Ultimo aggiornamento: [25/02/2025]
+Ultimo aggiornamento: [27/02/2025]
 
 ## 1. Introduzione
-Benvenuti nella Privacy Policy di Cashly. Questa policy descrive come raccogliamo, utilizziamo e proteggiamo i vostri dati personali.
+Benvenuti nella Privacy Policy di Cashly. Questa policy descrive come Cashly raccoglie, utilizza e protegge i vostri dati personali.
 
 ## 2. Dati raccolti
 Raccogliamo i seguenti dati:
@@ -32,7 +32,7 @@ Avete il diritto di:
 - Richiedere una copia dei vostri dati
 
 ## 6. Contatti
-Per qualsiasi domanda sulla privacy, contattateci a: [giulioaterno@gmail.com]
+Per qualsiasi domanda sulla privacy, contattata: [giulioaterno@gmail.com]
 
 ## 7. Modifiche alla Privacy Policy
 Ci riserviamo il diritto di modificare questa policy. Le modifiche saranno comunicate attraverso l'app.
